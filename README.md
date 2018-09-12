@@ -1,0 +1,3 @@
+Bro! Bro!? Broooo...
+
+h2. Go bot that uses sentiment analysis to determine a user's level of bro-ness.
